@@ -1,2 +1,18 @@
-# Sumario em linguagem Python
-Este material apresenta os principais fundamentos da linguagem de programação Python, abordando desde os conceitos iniciais — como sintaxe, variáveis e estruturas de controle — até tópicos mais avançados, como funções, manipulação de arquivos, programação orientada a objetos e criação de bibliotecas. A proposta é oferecer uma base sólida e acessível tanto para quem está começando quanto para quem deseja aprofundar seus conhecimentos na linguagem.
+# Sobre
+
+Este repositório contém um resumo em constante atualização sobre os principais conceitos da linguagem de programação Python.
+
+O objetivo é organizar, de forma clara e prática, os tópicos essenciais da linguagem, facilitando o aprendizado progressivo e específico, servindo também como base para a criação de projetos modulares e reutilizáveis em Python.
+
+Este resumo está sendo construído à medida que os estudos avançam, incluindo:
+
+- Conceitos básicos e sintaxe da linguagem Python;
+- Estruturas de controle, funções e orientação a objetos;
+- Manipulação de arquivos, listas, dicionários e módulos;
+- Organização e reutilização de código com pacotes e bibliotecas;
+- Princípios para transformar o conteúdo em scripts e ferramentas reutilizáveis.
+
+# Aviso
+
+Este material está em construção e será expandido com o tempo.
+Contribuições, sugestões e correções são muito bem-vindas!
