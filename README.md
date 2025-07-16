@@ -1,0 +1,2 @@
+# Sumario em linguagem Python
+Este material apresenta os principais fundamentos da linguagem de programação Python, abordando desde os conceitos iniciais — como sintaxe, variáveis e estruturas de controle — até tópicos mais avançados, como funções, manipulação de arquivos, programação orientada a objetos e criação de bibliotecas. A proposta é oferecer uma base sólida e acessível tanto para quem está começando quanto para quem deseja aprofundar seus conhecimentos na linguagem.
