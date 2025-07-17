@@ -40,10 +40,10 @@ Características principais:
 
     Python não exige main(), mas é prática comum:
 
-    - def main():
+    def main():
         print("Olá, mundo!")
         if __name__ == "__main__":
-      main()
+        main()
 
     4.4 Variáveis
 
@@ -54,10 +54,10 @@ Características principais:
 
     4.5 Caracteres especiais
 
-    - \n  # Quebra de linha.
-    - \t  # Tabulação.
-    - \\  # Barra invertida.
-    - \"  # Aspas duplas.
+    - \n # Quebra de linha.
+    - \t # Tabulação.
+    - \\ # Barra invertida.
+    - \" # Aspas duplas.
 
     4.6 Funções principais
 
@@ -82,17 +82,16 @@ Características principais:
 
     Condições:
 
-    - if x > 0:
+    if x > 0:
         print("Positivo")
     elif x == 0:
         print("Zero")
     else:
         print("Negativo")
 
-    - for i in range(5):
+    for i in range(5):
         print(i)
     while condição:
-        # loop
 
 # 7. Funções
 
@@ -101,9 +100,9 @@ Características principais:
 
     print(saudacao("Maria"))
 
-    `*args`, `**kwargs`
+    *args, **kwargs
 
-    Funções lambda: `lambda x: x*2`
+    Funções lambda: lambda x: x*2
 
 # 8. Listas e Coleções
 
